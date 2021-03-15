@@ -68,4 +68,15 @@ percentages or ems.
 
 ![img7](https://hackernoon.com/hn-images/1*bxEkHw1xewxOFjmGunb-Cw.png)
 
+# Switch Statement 
 
+![img8](https://www.bookofnetwork.com/images/javascript-images/JS_switch-syntax_20Sep16_1827.png)
+
+
+# Loops 
+**there are three types of loops**
+* For loop 
+* while loop 
+* Do while loop 
+
+![img9](https://media.geeksforgeeks.org/wp-content/uploads/continue-1.png)
