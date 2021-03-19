@@ -28,5 +28,24 @@ The model is called a DOM tree, and it is stored in the browsers memory.It consi
 # WORKING WITH THE DOM TREE
 **Accessing and updating the DOM tree involves two steps:**
 
-* STEP 1: ACCESS THE ELEMENTS 
-* Use its text content, child elements, and attributes. 
+ ## STEP 1 : ACCESS THE ELEMENTS 
+ 1. Select an Individual elememt node : 
+ * get El ement Byld ()
+ * querySe 1 ector () 
+ 
+ 2. SELECT MULTIPLE ELEMENTS (NODELISTS) :
+ * getElementsByClassName() 
+ * getElementsByTagName() 
+ * querySelectorAll() 
+
+ 3. TRAVERSING BETWEEN ELEMENT NODES :
+ * parentNode
+ * previousSibling / nextSibling 
+ * firstChild / lastChild 
+
+## 
+
+
+ 
+
+ 
