@@ -26,6 +26,8 @@ The model is called a DOM tree, and it is stored in the browsers memory.It consi
 ![img](tree.PNG)
 
 # WORKING WITH THE DOM TREE
+![img](dom.PNG)
+
 **Accessing and updating the DOM tree involves two steps:**
 
  ## STEP 1 : ACCESS THE ELEMENTS 
@@ -43,8 +45,13 @@ The model is called a DOM tree, and it is stored in the browsers memory.It consi
  * previousSibling / nextSibling 
  * firstChild / lastChild 
 
-## 
+## ADDING OR REMOVING HTML CONTENT 
+## ACCESS & UPDATE TEXT & MARKUP WITH INNERHTML
+# quick Recap!
+ **The getElementsByTagName () method selects the position in 
+the DOM tree to insert the new element (the first < u l >element in the page)**
 
+![recap](recap.PNG)
 
  
 
