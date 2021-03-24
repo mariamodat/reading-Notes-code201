@@ -19,7 +19,7 @@ SEO is a huge topic and several books have been written on the subject.
 The following pages will help you understand the key concepts so you can 
 improve your website's visibility on search engines.
 
-## the Basics 
+## The Basics 
  is the practice of trying to help your site appear nearer 
 the top of search engine results when people look for the topics 
 that your website covers.
@@ -31,3 +31,13 @@ Getting other sites to link to you is just as important as on-page
 techniques. Search engines help determine how to rank your 
 site by looking at the number of other sites that link to yours.
 ![img](https://www.weidert.com/hubfs/Blog/2020-blog-images/on-page%20SEO%20vs%20off-page.001.png)
+
+# Analytics: Learning about your Visitors
+As soon as people start coming to your site, you can start analyzing 
+how they found it, what they were looking at and at what point they are 
+leaving. One of the best tools for doing this is a free service offered by 
+Google called Google Analytics.
+* Signing Up
+* How it Works
+* The Tracking Code
+![img](pl.png)
